@@ -1,0 +1,19 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	new file:   requirements.txt
+#	modified:   src/resume_crew/main.py
+#
+# Changes not staged for commit:
+#	modified:   output/company_research.json
+#	modified:   output/final_report.md
+#	modified:   output/job_analysis.json
+#	modified:   output/optimized_resume.md
+#	modified:   output/resume_optimization.json
+#	modified:   src/resume_crew/crew.py
+#
